@@ -29,10 +29,3 @@ elif spam == 'N':
 
 else:
     print(funny)
-
-"""
-bot = commands.Bot(intents=discord.Intents.all() , command_prefix= "!")\
-
-@bot.command()
-async def ping(ctx):
-"""
